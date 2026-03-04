@@ -1,8 +1,10 @@
 # Limit Order Book (Matching Engine)
-<p align = "center">
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
 </p>
+
+
 A high-performance order matching engine implementing **price-time priority** matching using **binary heaps** for O(log N) operations.
 
 > Built as a demonstration of trading systems knowledge and data structure optimization.
